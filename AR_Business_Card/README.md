@@ -2,6 +2,7 @@ This is an AR application using WebGL with ZapWorks.
 
 1. Scan the QR code
    You may need to zoom in on the QR code.
+   
    ![QR](ar_business_intro.png "QR")
 2. Open the link
    Opening in Chrome is recommended.
