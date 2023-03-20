@@ -1,5 +1,7 @@
 This is a training for creating an AR app with Vuforia.
 
+
+
 Due to GitHub constarints, the following files are removed.
 
 /Assets/wood_textures/wood_dark_002_Color_4K.tif
