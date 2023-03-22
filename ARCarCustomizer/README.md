@@ -1,6 +1,6 @@
 This is an AR application using WebGL with ZapWorks.
 
-1. Scan the QR code You may need to zoom in on the QR code.
+1. Scan the QR code.
 
    ![target_image](ar_car_QR.png "QR")
 
