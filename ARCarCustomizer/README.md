@@ -4,8 +4,7 @@ This is an AR application using WebGL with ZapWorks.
 
    ![target_image](ar_car_QR.png "QR")
 
-2. Scan the target image
-   You may need to zoom in on the image.
+2. Scan the target image. You may need to zoom in on the image.
    
    ![target_image](m2.jpg "target_image")
 
